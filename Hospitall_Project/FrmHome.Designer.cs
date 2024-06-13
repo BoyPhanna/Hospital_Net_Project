@@ -34,19 +34,23 @@
             // label
             // 
             this.label.AutoSize = true;
-            this.label.Font = new System.Drawing.Font("Khmer OS Moul Light", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label.Location = new System.Drawing.Point(12, 179);
+            this.label.Font = new System.Drawing.Font("Khmer OS Battambang", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label.ForeColor = System.Drawing.Color.Orange;
+            this.label.Location = new System.Drawing.Point(186, 181);
+            this.label.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label.Name = "label";
-            this.label.Size = new System.Drawing.Size(810, 90);
+            this.label.Size = new System.Drawing.Size(298, 38);
             this.label.TabIndex = 25;
             this.label.Text = "មន្ទីពេទ្យឋានសួគ៏ា សូមស្វាគមន៍";
+            this.label.Click += new System.EventHandler(this.label_Click);
             // 
             // FrmHome
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(850, 528);
+            this.ClientSize = new System.Drawing.Size(638, 429);
             this.Controls.Add(this.label);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FrmHome";
             this.Text = "FrmHome";
             this.ResumeLayout(false);

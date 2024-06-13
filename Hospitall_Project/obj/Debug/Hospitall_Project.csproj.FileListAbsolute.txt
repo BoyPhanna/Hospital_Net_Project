@@ -19,3 +19,23 @@ D:\RUPP\C#\Hospitall_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmCh
 D:\RUPP\C#\Hospitall_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmCheckout.resources
 D:\RUPP\C#\Hospitall_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmHistory.resources
 D:\RUPP\C#\Hospitall_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmHome.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\bin\Debug\Hospitall_Project.exe.config
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\bin\Debug\Hospitall_Project.exe
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\bin\Debug\Hospitall_Project.pdb
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.csproj.AssemblyReference.cache
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.Form1.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmCheckIn.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmCheckout.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmClien.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmHistory.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmHome.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmMain.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmMedicine.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmRoom.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmStuff.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.FrmTool.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.Properties.Resources.resources
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.csproj.GenerateResource.cache
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.csproj.CoreCompileInputs.cache
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.exe
+D:\C# 2023\Hospital_Net_Project\Hospitall_Project\obj\Debug\Hospitall_Project.pdb

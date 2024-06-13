@@ -8,6 +8,6 @@ namespace Hospitall_Project
 {
     internal class HospitalDatabase
     {
-        public static string conStr = "Data Source=DESKTOP-E2QA4SA\\DBS; Initial Catalog=hospitall; Integrated Security=True";
+        public static string conStr = "Data Source=DESKTOP-NQGGOU1\\DBS; Initial Catalog=hospitall; Integrated Security=True";
     }
 }

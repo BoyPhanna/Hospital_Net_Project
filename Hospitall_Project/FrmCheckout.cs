@@ -318,5 +318,45 @@ namespace Hospitall_Project
             dtMedicine = null;
             dtTool= null;
         }
+
+        private void FrmCheckout_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void tbxTool_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbxCheckIn_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

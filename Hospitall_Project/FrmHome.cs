@@ -16,5 +16,10 @@ namespace Hospitall_Project
         {
             InitializeComponent();
         }
+
+        private void label_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
